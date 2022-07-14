@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ac2b9af.chunk.css",
-    "main.js": "/static/js/main.236c47a6.chunk.js",
-    "main.js.map": "/static/js/main.236c47a6.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.5286435d.chunk.js": "/static/js/2.5286435d.chunk.js",
-    "static/js/2.5286435d.chunk.js.map": "/static/js/2.5286435d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.25a3deae819f75fd94c16e4c4fb9d2a8.js": "/precache-manifest.25a3deae819f75fd94c16e4c4fb9d2a8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.3ac2b9af.chunk.css.map": "/static/css/main.3ac2b9af.chunk.css.map"
+    "main.css": "/sustainable-memory-game/static/css/main.3ac2b9af.chunk.css",
+    "main.js": "/sustainable-memory-game/static/js/main.7e90ef8b.chunk.js",
+    "main.js.map": "/sustainable-memory-game/static/js/main.7e90ef8b.chunk.js.map",
+    "runtime~main.js": "/sustainable-memory-game/static/js/runtime~main.12276f0d.js",
+    "runtime~main.js.map": "/sustainable-memory-game/static/js/runtime~main.12276f0d.js.map",
+    "static/js/2.5286435d.chunk.js": "/sustainable-memory-game/static/js/2.5286435d.chunk.js",
+    "static/js/2.5286435d.chunk.js.map": "/sustainable-memory-game/static/js/2.5286435d.chunk.js.map",
+    "index.html": "/sustainable-memory-game/index.html",
+    "precache-manifest.7aa96de68634a82bc9a5d03021dc35d3.js": "/sustainable-memory-game/precache-manifest.7aa96de68634a82bc9a5d03021dc35d3.js",
+    "service-worker.js": "/sustainable-memory-game/service-worker.js",
+    "static/css/main.3ac2b9af.chunk.css.map": "/sustainable-memory-game/static/css/main.3ac2b9af.chunk.css.map"
   }
 }
